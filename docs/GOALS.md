@@ -1,0 +1,1 @@
+The goal of this project is to create a Reddit client that display posts as billboard rectangles in 3D space. Posts about similar topics will be close to each other in 3D space. The user will have the ability to navigate this 3D space by controlling camera movement using WASD and the mouse.
